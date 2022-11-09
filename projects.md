@@ -25,7 +25,7 @@
 
 
 ## Fast Marching method implemented in Python
-[Fast Marching report](/pdf/Fast_Marching.pdf)
+[Fast Marching report](/pdf/rapport.pdf)
 <img src="images/image3.png?raw=true"/>
 <img src="images/image4.png?raw=true"/>
 
