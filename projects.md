@@ -26,7 +26,8 @@
 
 ## Fast Marching
 [Fast Marching report](/pdf/Fast_Marching.pdf)
-<img src="images/image.png?raw=true"/>
+<img src="images/image3.png?raw=true"/>
+<img src="images/image4.png?raw=true"/>
 
 ---
 
