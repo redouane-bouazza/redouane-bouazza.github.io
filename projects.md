@@ -42,7 +42,8 @@
 ## AI for deduction games in C++
 [Implementation of an AI deduction game report](/pdf/deducion_games.pdf)
 
-<img src="images/image.png?raw=true"/>
+<img src="images/Cpp_1.png?raw=true"/>
+<img src="images/Cpp_2.png?raw=true"/>
 
 ---
 
