@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://redouane-bouazza.github.io/projects">View My Projects</a>
   <br><br>
-  <img src="images/Cpp_1.png?raw=true"/>View Image</a>
+  <a img src="images/Cpp_1.png?raw=true"/>View Image</a>
 
 
   
