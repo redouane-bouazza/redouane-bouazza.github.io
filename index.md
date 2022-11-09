@@ -62,7 +62,7 @@ Baccalaureate in Mathematical Sciences - with High Honors
 - [Implementation of an AI for deduction games (Mastermind and Wordle).](https://gitlab.insa-rouen.fr/kgatel/Projet_Cpp_S8)
 - [Implementation of the Fast Marching method for solving maze problems and route planning](https://redouane-b.github.io/Fast_Marching/)
 - Reinforcement Learning for Combinatorial Optimsation problems (In progress)
-- Game development in Java
+- Game development in Java(/pdf/pong.pdf)
 - Parallel computing project on solving the reaction- diffusion model of Gray-Scott in Fortran (using MPI and OpenMP) (In progress)
 - [Management of an online store (SQL)](/pdf/BDD.pdf)
 
