@@ -29,14 +29,14 @@
 ---
 
 ## Pong in JAVA
-[Conditional generation report](/pdf/pong.pdf)
+[Pong report](/pdf/pong.pdf)
 
 <img src="images/image.png?raw=true"/>
 
 ---
 
 ## AI for deduction games
-[Conditional generation report](/pdf/deduction_games.pdf)
+[Implementation of an AI deduction game report](/pdf/deducion_games.pdf)
 
 <img src="images/image.png?raw=true"/>
 
