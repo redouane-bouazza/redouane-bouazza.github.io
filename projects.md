@@ -11,31 +11,32 @@
 [Conditional generation report](/pdf/Conditional_generation.pdf)
 
 <img src="images/image5.png?raw=true"/>
+<img src="images/image7.png?raw=true"/>
+
 ---
 
 ## Autonomous driving using Reinforcement learning
-[Conditional generation report](/pdf/Conditional_generation.pdf)
-
+[Conditional generation report](/pdf/rapport_stage-24-27.pdf)
 <img src="images/image.png?raw=true"/>
 
 ---
 
 
 ## Fast Marching
-[Conditional generation report](/pdf/Conditional_generation.pdf)
-<img src="images/image5.png?raw=true"/>
+[Fast Marching report](/pdf/Fast_Marching.pdf)
+<img src="images/image.png?raw=true"/>
 
 ---
 
 ## Pong in JAVA
-[Conditional generation report](/pdf/Conditional_generation.pdf)
+[Conditional generation report](/pdf/pong.pdf)
 
 <img src="images/image.png?raw=true"/>
 
 ---
 
 ## AI for deduction games
-[Conditional generation report](/pdf/Conditional_generation.pdf)
+[Conditional generation report](/pdf/deduction_games.pdf)
 
 <img src="images/image.png?raw=true"/>
 
