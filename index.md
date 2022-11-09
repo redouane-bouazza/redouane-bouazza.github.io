@@ -1,3 +1,6 @@
+# Resume
+---
+
 # Skills
 `Machine learning`  `Deep learning`  `Reinforcement learning`  `Databases`   `Statistics` 
 
@@ -11,7 +14,7 @@
 ## Internship: Solving image inverse problems using Variational Autoencoders
 ### Bordeaux Institute of Mathematics (IMB) | May 2022- Aug 2022 
 * Building classification machine learning models on the
-latent space of the VD-VAE
+latent space of the VD-VAE using Pytorch
 * Adding semantic control via latent code manipulation for
 the task of attribute modification applied to face editing: [Attribute Manipulation](https://redouane-b.github.io/Attribute_Manipulation--Public--/)
 * Generating High Resolution realistic images from a
@@ -20,7 +23,7 @@ specific sub-category: [Conditional Generation](https://redouane-b.github.io/Con
 ## Internship: Autonomous driving using Reinforcement learning 
 ### ENSET Mohammedia Signals, Distributed Systems and Artificial Intelligence Laboratory (SSDIA) | Jun 2021- Sep 2021
 
-- Learning models studied and implemented in Python: 
+- Learning models studied and implemented in Python usin: 
 Reinforcement Learning, Deep Learning and Deep Reinforcement Learning
 - [Application to the case of autonomous driving.](/pdf/rapport_stage-24-27.pdf)
 
