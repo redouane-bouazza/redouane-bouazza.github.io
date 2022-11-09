@@ -24,14 +24,14 @@
 ---
 
 
-## Fast Marching
+## Fast Marching method implemented in Python
 [Fast Marching report](/pdf/Fast_Marching.pdf)
 <img src="images/image3.png?raw=true"/>
 <img src="images/image4.png?raw=true"/>
 
 ---
 
-## Pong in JAVA
+## Pong with power-ups implementation in Java
 [Pong report](/pdf/pong.pdf)
 
 <img src="images/Pong_1.png?raw=true"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## AI for deduction games
+## AI for deduction games in C++
 [Implementation of an AI deduction game report](/pdf/deducion_games.pdf)
 
 <img src="images/image.png?raw=true"/>
