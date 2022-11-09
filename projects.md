@@ -5,43 +5,39 @@
 <img src="images/image14.png?raw=true"/>
 ---
 
-## Conditional generation (VD-VAEs)
-[Conditional generation report](/pdf/Conditional_generation.pdf)
 
-<img src="images/image5.png?raw=true"/>
-<img src="images/image7.png?raw=true"/>
-
----
 
 ## Conditional generation (VD-VAEs)
 [Conditional generation report](/pdf/Conditional_generation.pdf)
 
 <img src="images/image5.png?raw=true"/>
-<img src="images/image7.png?raw=true"/>
-
 ---
 
-## AI deduction games
+## Autonomous driving using Reinforcement learning
 [Conditional generation report](/pdf/Conditional_generation.pdf)
 
-<img src="images/image5.png?raw=true"/>
-<img src="images/image7.png?raw=true"/>
+<img src="images/image.png?raw=true"/>
 
 ---
+
 
 ## Fast Marching
 [Conditional generation report](/pdf/Conditional_generation.pdf)
-
 <img src="images/image5.png?raw=true"/>
-<img src="images/image7.png?raw=true"/>
 
 ---
 
 ## Pong in JAVA
 [Conditional generation report](/pdf/Conditional_generation.pdf)
 
-<img src="images/image5.png?raw=true"/>
-<img src="images/image7.png?raw=true"/>
+<img src="images/image.png?raw=true"/>
+
+---
+
+## AI for deduction games
+[Conditional generation report](/pdf/Conditional_generation.pdf)
+
+<img src="images/image.png?raw=true"/>
 
 ---
 
