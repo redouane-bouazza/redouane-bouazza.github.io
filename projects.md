@@ -16,7 +16,7 @@
 ---
 
 ## Autonomous driving using Reinforcement learning
-[Conditional generation report](/pdf/rapport_stage-24-27.pdf)
+[Autonomous driving report](/pdf/rapport_stage-24-27.pdf)
 <img src="images/autonomous_1.png?raw=true"/>
 <img src="images/autonomous_2.png?raw=true"/>
 
