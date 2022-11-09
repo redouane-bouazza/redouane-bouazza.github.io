@@ -17,7 +17,9 @@
 
 ## Autonomous driving using Reinforcement learning
 [Conditional generation report](/pdf/rapport_stage-24-27.pdf)
-<img src="images/image.png?raw=true"/>
+<img src="images/autonomous_1.png?raw=true"/>
+<img src="images/autonomous_2.png?raw=true"/>
+
 
 ---
 
@@ -31,7 +33,8 @@
 ## Pong in JAVA
 [Pong report](/pdf/pong.pdf)
 
-<img src="images/image.png?raw=true"/>
+<img src="images/Pong_1.png?raw=true"/>
+<img src="images/Pong_2.png?raw=true"/>
 
 ---
 
